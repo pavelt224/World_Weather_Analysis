@@ -1,0 +1,11 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed
+0,Chervishevo,RU,56.9464,65.4278,23.56,95,100,7.05
+1,Littlehampton,GB,50.8069,-0.5378,45.99,89,100,12.5
+2,Punta Arenas,CL,-53.15,-70.9167,51.12,71,89,20.4
+3,Camapua,BR,-19.5314,-54.0439,72.48,93,100,3.65
+4,East Liverpool,US,40.6187,-80.5773,38.25,95,100,8.01
+5,New Norfolk,AU,-42.7826,147.0587,63.9,48,99,7.0
+6,Ribeira Grande,PT,38.5167,-28.7,60.84,71,100,29.46
+7,Kavaratti,IN,10.5669,72.642,82.18,63,11,7.72
+8,Hilo,US,19.7297,-155.09,73.27,46,90,5.75
+9,Broken Hill,AU,-31.95,141.4333,95.07,14,60,22.53
